@@ -39,21 +39,7 @@ RandomForestClassifier (.pkl)
 
 ---
 
-## Features
-
-- Sends four flower measurements to a remote ML model via HTTP POST
-- Displays predicted species with image and botanical description
-- Spring animation on result appearance and dismissal
-- Glassmorphism text fields with neon glow via custom `ViewModifier`
-- Notebook-line background with gradient fade using SwiftUI `Canvas`
-- Silvery gradient title with double white glow
-- Clear button resets all inputs and dismisses the result instantly
-- Per-field 3-character limit and input validation
-- Error message with red neon glow, auto-dismissed on next prediction
-
----
-
-## Project Structure
+## App Structure
 
 ```
 IrisPredictionClient-repo/

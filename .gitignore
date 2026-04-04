@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pkl
+.venv/
+venv/
+.idea/
+.DS_Store
+xcuserdata/
+*.xccheckout
+*.xcscmblueprint
+DerivedData/

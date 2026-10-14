@@ -12,8 +12,6 @@ A small SwiftUI iOS app that classifies Iris flowers in real time by sending pet
 
 ## Why I built this
 
-For fun, wanted to work with AI slop a little.
-
 ---
 
 ## System Architecture
